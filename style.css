@@ -1,39 +1,39 @@
 main {
-  width: 10%;
-  margin: 100px auto;
+    width: 10%;
+    margin: 100px auto;
 }
 #button-container {
-  height: 420px;
-  width: 190px;
-  border: 2px solid saddlebrown;
-  border-radius: 7px;
-  box-shadow: 5px 3px 9px;
-  background-color: aquamarine;
+    height: 420px;
+    width: 190px;
+    border: 2px solid saddlebrown;
+    border-radius: 7px;
+    box-shadow: 5px 3px 9px;
+    background-color: aquamarine;
 }
 .button-items {
-  padding: 5px;
+    padding: 5px;
 }
 .btn {
-  width: 42px;
-  padding: 15px;
-  background-color: darkolivegreen;
-  color: white;
-  font-size: medium;
-  border-radius: 3px;
-  box-shadow: 5px 5px 10px;
+    width: 42px;
+    padding: 15px;
+    background-color: darkolivegreen;
+    color: white;
+    font-size: medium;
+    border-radius: 3px;
+    box-shadow: 5px 5px 10px;
 }
 #display {
-  font-size: 18px;
-  font-weight: bold;
-  padding: 5px;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px;
 }
 
 @media screen and (max-width: 688px) {
-  main {
-    width: 50%;
-    margin: 50px auto;
-  }
-  #display {
-    margin-left: 5px;
-  }
+    main {
+        width: 50%;
+        margin: 150px auto;
+    }
+    #display {
+        margin-left: 5px;
+    }
 }
